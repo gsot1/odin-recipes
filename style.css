@@ -1,0 +1,22 @@
+html {
+    background-color: midnightblue;
+    color: white;
+    font-size: 1.5rem;
+}
+
+a {
+    color: white;
+}
+
+ul li {
+    font-size: 0.8rem;
+}
+
+ol li {
+    font-size: 0.9rem;
+}
+
+#home-list a, h4 a {
+    font-size: 1.2rem;
+    color: lightgreen;
+}
